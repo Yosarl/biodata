@@ -1,0 +1,180 @@
+.pro
+{
+    text-decoration: underline;
+}
+body
+{
+ text-align: center;  
+ 
+ font-family: 'Merriweather', serif;
+ margin: 0;
+
+
+ 
+
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    height: 180px;
+   
+}
+
+.bottomcloud
+{
+    position: absolute;
+    left: 18rem;
+}
+.topcloud
+{
+    position: relative;
+    left: 215px;
+}
+.topcontainer
+{
+    margin: 0;
+padding-top: 20px;
+    position: relative;
+    background-color: #E4F9F5;
+    margin-bottom: 40px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 60px;
+    color: #66BFBF;
+    line-height: 4px;
+    
+    
+}
+h2
+{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+h3
+{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.photosizepro
+{
+    width: 12.5rem;
+    height: 12.5rem;
+
+}
+.photocomp
+{
+    width: 12.5rem;
+    height: 12.5rem;
+    float: left;
+    margin-right: 30px;
+}
+.photochillie
+{
+    width: 12.5rem;
+    height: 12.5rem;
+    float: right;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+a
+{
+    color: #11999E;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 50px auto 88px auto;
+    text-align: left;
+    padding-top: 17px;
+}
+p{
+    line-height: 2;
+    font-size: 18px;
+}
+/*.designp
+{
+    clear: left;
+    padding-top: 50PX;
+    
+}   clear:left upayogikkunathu oru element float cenable aakkiyaal athinte next varunna elementine float avaathirikkaan aanu   */
+
+/*.designH
+{
+    clear: right;
+    padding-top: 50PX;
+    
+}*/
+.intro
+{
+    width: 30%;
+    color: #40514E;
+    margin: 0 auto 20px auto;
+  
+    
+}
+.skills
+{
+    
+}
+hr
+{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.hotwing
+{
+    width:45%;
+    margin: auto;
+}
+.btn
+{
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    height: 25px;
+    display: block;
+    width: 137px;
+    padding: 10px 20px 10px 20px;
+    margin: 53px auto 53px auto;
+    text-decoration: none;
+}
+.git1
+{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.bottomdiv
+{
+    padding-top: 40px;
+}
+.copy
+{
+    margin-top: 42px;
+}
+.footer-link1
+
+{
+margin-left: 50px;
+margin-right: 50px;
+}
+.ys
+
+{
+    color: white;
+    font-size: 1rem;
+   
+}
+.landdiv
+{
+    padding-top:140px;
+}
